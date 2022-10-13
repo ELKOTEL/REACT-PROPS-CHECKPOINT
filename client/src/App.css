@@ -1,0 +1,19 @@
+.App {
+  position: absolute;
+
+  text-align: center;
+  background-image: linear-gradient(to right, rgb(196, 110, 13) , rgb(252, 252, 252));
+}
+h1 {
+ 
+  color: rgb(196, 110, 13);
+  text-decoration: underline;
+ 
+
+}
+
+
+img{
+  width: 400px;
+}
+
